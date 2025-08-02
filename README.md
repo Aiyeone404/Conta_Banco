@@ -6,8 +6,6 @@ Este projeto é uma aplicação simples de terminal desenvolvida em **Java**, qu
 
 - Cadastro do nome do usuário e saldo inicial
 - Cálculo automático do cheque especial:
-  - R$ 50 se saldo ≤ R$ 500
-  - Metade do saldo se > R$ 500
 - Menu interativo com:
   - 💵 Depositar dinheiro
   - 💸 Realizar saque
